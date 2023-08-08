@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at UCSB
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>Office TBC</p>
     <p>Broida Hall, UCSB</p>
     <p>Santa Barbara, CA</p>
+    <p>✉️*sofiagonzalezgarcia[at]ucsb.edu*</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
