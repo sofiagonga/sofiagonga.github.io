@@ -1,77 +1,100 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sofia Gonzalez Garcia",
+    "label": "PhD student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "sofiagonzalezgarcia[at]ucsb.edu",
+    "research interests": "condensed matter, quantum information, tensor networks"
   },
-  "work": [
+  "experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Google Quantum AI",
+      "position": "student researcher",
+      "startDate": "2023-01",
+      "endDate": "2023-07"
+    },
+    {
+      "name": "BNP Paribas",
+      "position": "global markets intern",
+      "startDate": "2021-06",
+      "endDate": "2021-08"
+    },
+    {
+      "name": "BNP Paribas",
+      "position": "global markets intern",
+      "startDate": "2020-06",
+      "endDate": "2020-08"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Santa Barbara",
+      "url": "https://www.ucsb.edu//",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2023-09",
+      "endDate": "progress",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        ""
+      ]
+    },
+    {
+      "institution": "Perimeter Insititute for Theoretical Physics and University of Waterloo",
+      "url": "https://perimeterinstitute.ca/psi-masters-program",
+      "area": "Theoretical Physics",
+      "studyType": "MSc",
+      "startDate": "2021-09",
+      "endDate": "2023-08",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/",
+      "area": "Physics with Theoretical Physics",
+      "studyType": "BSc",
+      "startDate": "2018-09",
+      "endDate": "2021-08",
+      "score": "",
+      "courses": [
+        ""
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "certificates": [],
-  "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "Spanish",
+      "fluency": "Native"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [],
+  "publications": [
+    {
+     "title": "Random insights into the complexity of two-dimensional tensor network calculations",
+     "url": "https://arxiv.org/pdf/2307.11053.pdf",
+     "date": "2023-07",
+    "awarder": "ArXiv preprint",
+    "authors": "Sofia Gonzalez-Garcia, Shenqi Sang, Timothy H. Hsieh, Sergio Boixo, Guifre Vidal, Andrew C. Potter and Romain Vasseur"
+    }
+  ]
 }
