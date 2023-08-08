@@ -36,9 +36,6 @@
       "startDate": "2023-09",
       "endDate": "progress",
       "score": ""
-      //"courses": [
-       // ""
-      //]
     },
     {
       "institution": "Perimeter Insititute for Theoretical Physics and University of Waterloo",
@@ -51,9 +48,10 @@
     },
     {
       "institution": "Imperial College London",
-      "url": "https://www.imperial.ac.uk/",
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-bsc/",
       "area": "Physics with Theoretical Physics",
       "studyType": "BSc",
+      "location":"London?",
       "startDate": "2018-09",
       "endDate": "2021-08",
       "score": ""
@@ -84,11 +82,11 @@
   "projects": [],
   "publications": [
     {
-     "title": "Random insights into the complexity of two-dimensional tensor network calculations",
-     "url": "https://arxiv.org/pdf/2307.11053.pdf",
-     "date": "2023-07",
-    "awarder": "ArXiv preprint",
-    "authors": "Sofia Gonzalez-Garcia, Shenqi Sang, Timothy H. Hsieh, Sergio Boixo, Guifre Vidal, Andrew C. Potter and Romain Vasseur"
+      "title": "Random insights into the complexity of two-dimensional tensor network calculations",
+      "url": "https://arxiv.org/pdf/2307.11053.pdf",
+      "authors": "Sofia Gonzalez-Garcia, Shenqi Sang, Timothy H. Hsieh, Sergio Boixo, Guifre Vidal, Andrew C. Potter and Romain Vasseur",
+      "publisher": "ArXiv",
+      "date": "2023-07"
     }
   ]
 }
