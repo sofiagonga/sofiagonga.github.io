@@ -12,7 +12,7 @@ profile:
     <p>Office TBC</p>
     <p>Broida Hall, UCSB</p>
     <p>Santa Barbara, CA</p>
-    <p>✉️*sofiagonzalezgarcia[at]ucsb.edu*</p>
+    <p><em>sofiagonzalezgarcia[at]ucsb.edu</em></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
