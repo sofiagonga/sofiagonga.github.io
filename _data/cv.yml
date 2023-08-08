@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sofia Gonzalez Garcia
+    # - name: Date of Birth
+    #   value: 18th January
     - name: Languages
-      value: English, German
+      value: English (fluent), Spanish (native), French (intermediate), Mandarin (intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physics
+      institution: University of California, Santa Barbara
+      year: in progress
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Supervisor: TBC
+        - title: Courses.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - TBC
+    - title: MSc in Theoretical Physics
+      institution: Perimeter Institute for Theoretical Physics and University of Waterloo
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Roger Melko
+        - title: Courses.
+          contents:
+            - Core: Classical Mechanics, Quantum Mechanics, General Relativity, Statistical Mechanics, Quantum Field Theory I and II.
+            - Electives: Quantum Information, Condensed Matter, Machine Learning for Many Body Physics, Quantum Foundations
 
 - title: Experience
   type: time_table
