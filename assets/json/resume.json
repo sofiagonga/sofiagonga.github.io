@@ -35,10 +35,10 @@
       "studyType": "PhD",
       "startDate": "2023-09",
       "endDate": "progress",
-      "score": "",
-      "courses": [
-        ""
-      ]
+      "score": ""
+      //"courses": [
+       // ""
+      //]
     },
     {
       "institution": "Perimeter Insititute for Theoretical Physics and University of Waterloo",
@@ -47,10 +47,7 @@
       "studyType": "MSc",
       "startDate": "2021-09",
       "endDate": "2023-08",
-      "score": "",
-      "courses": [
-        ""
-      ]
+      "score": ""
     },
     {
       "institution": "Imperial College London",
@@ -59,10 +56,7 @@
       "studyType": "BSc",
       "startDate": "2018-09",
       "endDate": "2021-08",
-      "score": "",
-      "courses": [
-        ""
-      ]
+      "score": ""
     }
   ],
   "certificates": [],
