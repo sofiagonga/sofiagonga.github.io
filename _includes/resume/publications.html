@@ -9,7 +9,9 @@
             {% if content.publisher %}
             <tr>
               <td>
-                <span class="badge danger-color-dark" style="min-width: 75px;"><a style = "color: white !important" href="{{ content.url }}">{{content.publisher}}</a></span>
+                <a href="{{ content.url }}" class="badge badge-danger danger-color-dark" style="min-width: 75px;">
+                  <span style="color: white !important;">{{ content.publisher }}</span>
+                </a>
               </td>
             </tr>
             {% endif %}
