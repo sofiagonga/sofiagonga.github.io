@@ -22,7 +22,8 @@
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{ entry.url }}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+          <a href="{{ entry.url }}" class="badge font-weight-bold danger-color-dark" style="min-width: 75px;">
+            <span style = "color: white !important">{{ entry.abbr }}</span>
           {%- endif -%}
         {%- endif -%}
         </div>
