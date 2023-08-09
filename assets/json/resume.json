@@ -6,27 +6,6 @@
     "email": "sofiagonzalezgarcia[at]ucsb.edu",
     "research interests": "condensed matter, quantum information, tensor networks"
   },
-  "experience": [
-    {
-      "name": "Google Quantum AI",
-      "position": "student researcher",
-      "startDate": "2023-01",
-      "endDate": "2023-07"
-    },
-    {
-      "name": "BNP Paribas",
-      "position": "global markets intern",
-      "startDate": "2021-06",
-      "endDate": "2021-08"
-    },
-    {
-      "name": "BNP Paribas",
-      "position": "global markets intern",
-      "startDate": "2020-06",
-      "endDate": "2020-08"
-    }
-  ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of California, Santa Barbara",
@@ -56,6 +35,36 @@
       "score": ""
     }
   ],
+  "experience": [
+    {
+      "institution": "Google Quantum AI",
+      "position": "student researcher",
+      "startDate": "2023-01",
+      "endDate": "2023-07"
+    },
+    {
+      "institution": "BNP Paribas",
+      "position": "global markets intern",
+      "startDate": "2021-06",
+      "endDate": "2021-08"
+    },
+    {
+      "institution": "BNP Paribas",
+      "position": "global markets intern",
+      "startDate": "2020-06",
+      "endDate": "2020-08"
+    }
+  ],
+  "volunteer": [],
+  "publications": [
+    {
+      "title": "Random insights into the complexity of two-dimensional tensor network calculations",
+      "url": "https://arxiv.org/pdf/2307.11053.pdf",
+      "authors": "Sofia Gonzalez-Garcia, Shenqi Sang, Timothy H. Hsieh, Sergio Boixo, Guifre Vidal, Andrew C. Potter and Romain Vasseur",
+      "publisher": "ArXiv",
+      "date": "2023-w"
+    }
+  ],
   "certificates": [],
   "skills": [],
   "languages": [
@@ -78,14 +87,5 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [],
-  "publications": [
-    {
-      "title": "Random insights into the complexity of two-dimensional tensor network calculations",
-      "url": "https://arxiv.org/pdf/2307.11053.pdf",
-      "authors": "Sofia Gonzalez-Garcia, Shenqi Sang, Timothy H. Hsieh, Sergio Boixo, Guifre Vidal, Andrew C. Potter and Romain Vasseur",
-      "publisher": "ArXiv",
-      "date": "2023"
-    }
-  ]
+  "projects": []
 }
