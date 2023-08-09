@@ -4,18 +4,15 @@
   <li class="list-group-item">
     <div class="row">
       <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
-        {% if content.publisher %}
-        {% assign publisher = content.publisher %}
-        {% else %}
-        {% assign publisher = "" %}
-        {% endif %}
         <table class="table-cv">
           <tbody>
+            {% if content.publisher %}
             <tr>
               <td>
-                <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;"><a href="{{ content.url }}">{{publisher}}</a></span>
+                <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;"><a href="{{ content.url }}"></a>{{content.publisher}}</a></span>
               </td>
             </tr>
+            {% endif %}
           </tbody>
         </table>
       </div>
