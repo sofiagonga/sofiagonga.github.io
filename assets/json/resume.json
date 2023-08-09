@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sofia Gonzalez Garcia",
-    "label": "PhD student",
+    "position": "PhD student",
     "image": "",
     "email": "sofiagonzalezgarcia[at]ucsb.edu",
     "research interests": "condensed matter, quantum information, tensor networks"
@@ -38,19 +38,19 @@
   "experience": [
     {
       "institution": "Google Quantum AI",
-      "position": "student researcher",
+      "position": "Student researcher",
       "startDate": "2023-01",
       "endDate": "2023-07"
     },
     {
       "institution": "BNP Paribas",
-      "position": "global markets intern",
+      "position": "Global markets intern",
       "startDate": "2021-06",
       "endDate": "2021-08"
     },
     {
       "institution": "BNP Paribas",
-      "position": "global markets intern",
+      "position": "Global markets intern",
       "startDate": "2020-06",
       "endDate": "2020-08"
     }
