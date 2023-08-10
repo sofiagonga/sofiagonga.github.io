@@ -22,8 +22,7 @@
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{ entry.url }}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-          <a href="{{ entry.url }}" class="badge font-weight-bold danger-color-dark" style="min-width: 75px;">
-            <span style = "color: white !important">{{ entry.abbr }}</span>
+            <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
         </div>
@@ -31,7 +30,7 @@
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+        <div class="title"><a href="{{ entry.url }}">{{entry.title}}</a></div>
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
